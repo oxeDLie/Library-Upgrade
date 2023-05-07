@@ -8,5 +8,5 @@
 5. admin dapat mengembalikan buku dari anggota yang dipilih
 
 ## acceptence criteria : 
-1. admin hanya boleh meminjamkan buku yang belum dipinjam sebelumnya
-2. admin hanya boleh mengembalikan buku yang sudah dipinjam sebelumnya
+1. hanya boleh meminjamkan buku yang belum dipinjam sebelumnya
+2. hanya boleh mengembalikan buku yang sudah dipinjam sebelumnya
